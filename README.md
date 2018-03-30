@@ -1,1 +1,1 @@
-# beginner
+print("hello world")
